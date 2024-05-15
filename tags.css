@@ -1,0 +1,33 @@
+p{
+    color:blueviolet;
+}
+/*h3{
+    color:yellow;
+}
+h1,h2,h4{
+    color:brown;
+}
+#text{
+    color:pink;
+}
+.hey{
+    color:green;
+}
+p>i{
+    color:red;
+}
+h1~h3{
+    color:darkkblue;
+}
+*{
+    color:black;
+}*/
+h5+h6{
+    color:aquamarine;
+}
+div b{
+    color:yellow;
+}
+p>sub{
+    color:blueviolet;
+}
